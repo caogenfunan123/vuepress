@@ -1,3 +1,10 @@
+---
+title: Hello VuePress
+date: 2026-08-05
+description: 欢迎来到 VuePress 的世界
+tags: ["vuepress", "博客", "入门"]
+---
+
 # Hello VuePress
 
 欢迎来到 VuePress 的世界!
@@ -13,19 +20,3 @@ VuePress 是一个由 Vue 驱动的静态网站生成器,由尤雨溪创建。�
 3. **Vue 组件支持**:在 Markdown 中可以直接使用 Vue 组件,实现丰富的交互。
 4. **SEO 友好**:每个页面预渲染为静态 HTML,对搜索引擎友好。
 5. **插件系统**:强大的插件 API,可扩展各类功能。
-6. **PWA 支持**:开箱即用的 PWA 配置。
-
-## 写作示例
-
-你可以像写普通 Markdown 一样撰写文章:
-
-```js
-export default {
-  name: "MyComponent",
-  data() {
-    return { msg: "Hello VuePress" };
-  }
-};
-```
-
-开始你的 VuePress 写作之旅吧!
